@@ -1,7 +1,7 @@
 <div>
    <a href="https://github.com/GabrielFC001">  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-cruz-t&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cruz-t&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFC001-t&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFC001-t&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
