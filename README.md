@@ -1,7 +1,7 @@
 <div>
-   <a href="https://github.com/lucas-cruz-i">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-cruz-i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cruz-i&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/GabrielFC001-i">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFC001-i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFC001-i&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
